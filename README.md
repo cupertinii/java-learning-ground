@@ -5,7 +5,8 @@ Download JDK from https://www.oracle.com/java/technologies/javase-downloads.html
 ## To Do List
 
 - [x] Hello World
-- [ ] Data Types
+- [x] Data Types
+- [x] Print Formatting
 - [ ] Loops
 - [ ] Logic/Control
 - [ ] Arrays
