@@ -30,7 +30,7 @@ public class App {
 
 
     // Printing currency rounded off
-    double investment = 1405020.02;
+    double investment = 771405020.02;
     System.out.printf("Investment = $%,.0f\n", investment);
 
     // Octal and Hex representations..
