@@ -19,9 +19,15 @@ public class App {
     // Simple print a line (with a new line) on stdout
     System.out.println("Area = " + area);
 
-    // Printing a format
+    // Printing with a format - one decimal
     System.out.printf("Area = %.1f\n", area);
-    System.out.printf("Area = %.1f\n", area);
+
+    // with leading zeros
+    System.out.printf("Area = %010.1f\n", area);
+
+    // with leading spaces
+    System.out.printf("Area = %10.1f\n", area);
+
 
     // Printing currency rounded off
     double investment = 1405020.02;
@@ -29,7 +35,7 @@ public class App {
 
     // Octal and Hex representations..
     long color = 0x45FF00;
-    System.out.printf("Color => %d (decimal) = %o (octal) = %h (hex)\n", color, color, color);
+    System.out.printf("Color => %d (decimal) = %o (octal) = %h (hex) = %x (hex)\n", color, color, color, color);
 
   }
 }
