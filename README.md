@@ -18,7 +18,7 @@ Download JDK from https://www.oracle.com/java/technologies/javase-downloads.html
 ## To Do List
 
 - [x] Hello World
-- [x] Data Types
+- [x] Primitive or Built-in Data Types
 - [x] Print Formatting
 - [ ] Loops
 - [ ] Logic/Control
@@ -28,3 +28,6 @@ Download JDK from https://www.oracle.com/java/technologies/javase-downloads.html
 - [ ] Recursions
 - [ ] Classes
 - [ ] Objects
+- [ ] Exceptions with Try, Catch and Finally
+
+- [x] JAR Packaging concept
