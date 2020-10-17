@@ -28,7 +28,7 @@ public class App {
   }
 
   public static void if_else_if_example() {
-    int age = 44;
+    int age = 67;
 
     if(age > 110) {
       System.out.println("Late Centenary");
@@ -75,7 +75,24 @@ public class App {
   }
 
   public static void switch_case_example() {
+    char direction_code = 'N';
 
+    switch(direction_code) {
+      case 'N':
+        System.out.println("NORTH");
+        break;
+      case 'S':
+        System.out.println("SOUTH");
+        break;
+      case 'E':
+        System.out.println("EAST");
+        break;
+      case 'W':
+        System.out.println("WEST");
+        break;
+      default:
+        System.out.println("Incorrect");
+    }
   }
 
 }
