@@ -22,7 +22,7 @@ Download JDK from https://www.oracle.com/java/technologies/javase-downloads.html
 - [x] Print Formatting
 - [x] Loops (for, while, do-while, break, continue)
 - [x] Logic/Control (if-else, if-else-if, switch)
-- [ ] Arrays
+- [x] Arrays
 - [ ] Strings
 - [ ] Functions
 - [ ] Recursions
