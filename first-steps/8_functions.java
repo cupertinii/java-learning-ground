@@ -3,6 +3,7 @@ public class App {
   public static void main(String[] args) {
 
     // 1. Java is always pass-by-value
+    // 2. Nested functions = functions/method in functions are not allowed
 
     function_simple_example();
 
@@ -16,7 +17,6 @@ public class App {
     for(int i=0; i<5; i++) {
       System.out.printf("Array[%d] = %d \n", i, array[i]);
     }
-
   }
 
   // Simple function with no return value (void)

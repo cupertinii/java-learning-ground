@@ -25,7 +25,7 @@ Download JDK from https://www.oracle.com/java/technologies/javase-downloads.html
 - [x] Arrays
 - [x] Strings
 - [x] Functions
-- [ ] Recursions
+- [x] Recursions
 - [ ] Classes
 - [ ] Objects
 - [ ] Exceptions with Try, Catch and Finally
