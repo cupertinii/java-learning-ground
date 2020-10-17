@@ -23,7 +23,7 @@ Download JDK from https://www.oracle.com/java/technologies/javase-downloads.html
 - [x] Loops (for, while, do-while, break, continue)
 - [x] Logic/Control (if-else, if-else-if, switch)
 - [x] Arrays
-- [ ] Strings
+- [x] Strings
 - [ ] Functions
 - [ ] Recursions
 - [ ] Classes
