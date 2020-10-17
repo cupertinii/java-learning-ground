@@ -27,7 +27,7 @@ Download JDK from https://www.oracle.com/java/technologies/javase-downloads.html
 - [x] Functions
 - [x] Recursions
 - [x] Classes
-- [ ] Objects
+- [x] Objects
 - [ ] Exceptions with Try, Catch and Finally
 
 - [x] JAR Packaging concept
