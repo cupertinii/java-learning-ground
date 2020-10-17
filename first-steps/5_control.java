@@ -1,9 +1,9 @@
 public class App {
 
   public static void main(String[] args) {
-    if_else_example();
-    if_else_if_example();
-    switch_case_example();
+    if_else_example(); // simple if else
+    if_else_if_example(); // also known as nested if else
+    switch_case_example(); // switch case
   }
 
   public static void if_else_example() {
