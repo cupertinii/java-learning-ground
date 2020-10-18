@@ -1,3 +1,8 @@
+//
+// Read more about Exceptions at
+// https://docs.oracle.com/javase/tutorial/essential/exceptions/index.html
+//
+
 public class App {
 
   public static void main(String[] args) {
