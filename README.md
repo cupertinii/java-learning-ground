@@ -4,7 +4,7 @@ Download JDK from https://www.oracle.com/java/technologies/javase-downloads.html
 
 ## Code > Compile > Package
 
-### Directly run
+### Directly run from command line
 - java hello.java
 
 ### Compile and then run
@@ -28,6 +28,13 @@ Download JDK from https://www.oracle.com/java/technologies/javase-downloads.html
 - [x] Recursions
 - [x] Classes
 - [x] Objects
-- [ ] Exceptions with Try, Catch and Finally
+- [x] Exceptions with Try, Catch and Finally
+- [ ] User-defined Exceptions
+- [ ] Date and Time
 
+## Advanced
+
+- [ ] File and Input/Output
+- [ ] Object Oriented Programming
+- [ ] Graphics (2-D)
 - [x] JAR Packaging concept
