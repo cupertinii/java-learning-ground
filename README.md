@@ -30,7 +30,7 @@ Download JDK from https://www.oracle.com/java/technologies/javase-downloads.html
 - [x] Objects
 - [x] Exceptions with Try, Catch and Finally
 - [x] User-defined Exceptions
-- [ ] Date and Time
+- [x] Date and Time
 
 ## Advanced
 
