@@ -38,3 +38,7 @@ Download JDK from https://www.oracle.com/java/technologies/javase-downloads.html
 - [ ] Object Oriented Programming
 - [ ] Graphics (2-D)
 - [x] JAR Packaging concept
+
+## References
+- https://docs.oracle.com/javase/tutorial/java/index.html
+- https://docs.oracle.com/javase/tutorial/java/concepts/index.html
