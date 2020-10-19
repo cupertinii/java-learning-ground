@@ -10,7 +10,7 @@
 - [x] Encapsulation and Access Modifiers
 - [x] Abstraction - Abstract Class
 - [x] Abstraction - Completely Abstract Class
-- [ ] Abstraction - Interfaces
+- [x] Abstraction - Interface
 - [ ] Abstraction - Multiple Interfaces
 - [ ] Polymorphism - Compile time Polymorphism - Method Overloading
 - [ ] Polymorphism - Runtime Polymorphism - Method Overriding
