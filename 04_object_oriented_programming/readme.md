@@ -8,7 +8,7 @@
 
 - [x] Inheritance - Class/Subclass
 - [x] Encapsulation and Access Modifiers
-- [ ] Abstraction - Abstract Class
+- [x] Abstraction - Abstract Class
 - [ ] Abstraction - Interfaces
 - [ ] Polymorphism - Compile time Polymorphism - Method Overloading
 - [ ] Polymorphism - Runtime Polymorphism - Method Overriding

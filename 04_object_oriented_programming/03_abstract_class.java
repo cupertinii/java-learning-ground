@@ -16,15 +16,20 @@ public class App {
 
 // Abstract => Idea or Concept
 abstract class Person {
+  public String type = "Human";
   public String first_name;
   public int birth_year;
+
+  public Person() {
+    System.out.println("Abstract Class Person constructor");
+  }
 
   // Following method with no body is defined with abstract modifier
   // which means it will need to be implemented in derived classes
   public abstract int currentAge();
 
   public void introduce() {
-    System.out.println("My name is " + first_name + " & my age is " + this.currentAge() );
+    System.out.println("I am a " +  type + ", My name is " + first_name + " & my age is " + this.currentAge() );
   }
 }
 
