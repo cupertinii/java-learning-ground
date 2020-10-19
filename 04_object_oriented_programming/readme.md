@@ -3,3 +3,12 @@
 - javac Person.java Student.java Teacher.java
 - Use it in program using
 - import cupertinii.*;
+
+## To Do List
+
+- [x] Inheritance - Class/Subclass
+- [x] Encapsulation and Access Modifiers
+- [ ] Abstraction - Abstract Class
+- [ ] Abstraction - Interfaces
+- [ ] Polymorphism - Compile time Polymorphism - Method Overloading
+- [ ] Polymorphism - Runtime Polymorphism - Method Overriding
