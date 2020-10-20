@@ -12,7 +12,7 @@
 - [x] Abstraction - Completely Abstract Class
 - [x] Abstraction - Interface
 - [x] Abstraction - Multiple Interfaces
-- [ ] Polymorphism - Compile time Polymorphism - Method Overloading
+- [x] Polymorphism - Compile time Polymorphism - Method Overloading
 - [ ] Polymorphism - Runtime Polymorphism - Method Overriding
 
 ## References
