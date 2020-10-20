@@ -13,7 +13,7 @@
 - [x] Abstraction - Interface
 - [x] Abstraction - Multiple Interfaces
 - [x] Polymorphism - Compile time Polymorphism - Method Overloading
-- [ ] Polymorphism - Runtime Polymorphism - Method Overriding
+- [x] Polymorphism - Runtime Polymorphism - Method Overriding
 
 ## References
 - https://docs.oracle.com/javase/tutorial/java/index.html
