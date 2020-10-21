@@ -8,6 +8,7 @@
 
 - [x] Inheritance - Class/Subclass
 - [x] Encapsulation and Access Modifiers
+- [x] Encapsulation and access via static 
 - [x] Abstraction - Abstract Class
 - [x] Abstraction - Completely Abstract Class
 - [x] Abstraction - Interface
