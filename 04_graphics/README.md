@@ -3,7 +3,7 @@
 ## To Do List
 
 - [x] Drawing Canvas and Lines, Arcs
-- [ ] Shapes - Rectangle, Oval and Circles
+- [x] Shapes - Rectangle, Oval and Circles
 - [ ] Polys - Polylines and polygon
 - [ ] Text
 

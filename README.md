@@ -35,10 +35,11 @@ Download JDK from https://www.oracle.com/java/technologies/javase-downloads.html
 ## Advanced
 
 - [x] File and Input/Output
-- [ ] Object Oriented Programming
+- [x] Object Oriented Programming
 - [ ] Graphics (2-D)
 - [x] JAR Packaging concept
 
 ## References
 - https://docs.oracle.com/javase/tutorial/java/index.html
 - https://docs.oracle.com/javase/tutorial/java/concepts/index.html
+- https://docs.oracle.com/javase/8/docs/api/java/awt/Graphics.html
