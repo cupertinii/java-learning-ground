@@ -5,7 +5,7 @@
 - [x] Drawing Canvas and Lines, Arcs
 - [x] Shapes - Rectangle, Oval and Circles
 - [x] Polys - Polylines and polygon
-- [ ] Text
+- [x] Text
 - [ ] Image
 
 ## References
