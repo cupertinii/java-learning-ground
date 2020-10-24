@@ -47,6 +47,10 @@ public class DisplayGraphics extends Canvas {
     // Quick reference on Fonts:
     // https://www.oreilly.com/library/view/java-awt-reference/9781565922402/06_chapter-03.html
 
+    // Set Fonts
+    int fontSize = 64;
+    g2d.setFont(new Font("Verdana", Font.PLAIN, fontSize));
+
     // Draw String on the canvas
     String str = "Cupertinii";
     g2d.drawString(str, 500, 400);
