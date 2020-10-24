@@ -7,6 +7,7 @@
 - [x] Polys - Polylines and polygon
 - [x] Text
 - [x] Image - reading and rendering JPG in app
+- [x] Image - reading pixels (rgb data)
 
 ## References
 - https://docs.oracle.com/javase/8/docs/api/java/awt/Graphics2D.html
