@@ -66,7 +66,7 @@ public class DisplayGraphics extends Canvas {
           int red = rgb.getRed();
           int green = rgb.getGreen();
           int blue = rgb.getBlue();
-          System.out.printf("RGB data at (%d,%d) = [%d,%d,%d] \n", x, y, red, green, blue );
+          //System.out.printf("RGB data at (%d,%d) = [%d,%d,%d] \n", x, y, red, green, blue );
           Color newColor = new Color(red/2, green/2, blue/2);
           img.setRGB(x, y, newColor.getRGB());
         }
