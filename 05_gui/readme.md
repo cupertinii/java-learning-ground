@@ -2,7 +2,8 @@
 
 ## To Do List
 
-- [] Buttons
+- [x] Buttons
+- [] Text entry and label
 
 
 ## References
