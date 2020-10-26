@@ -14,6 +14,7 @@ public class GUIApp {
     JTextField txt = new JTextField("Your Name");
     txt.setBounds(200, 100, 100, 50);
 
+    // This function will handle action like pressing enter in text field.
     txt.addActionListener(new ActionListener() {
       public void actionPerformed(ActionEvent e) {
         String textFieldData = txt.getText();
@@ -22,6 +23,7 @@ public class GUIApp {
       }
     });
 
+    // add label and txt field to app frame.
     frame.add(label);
     frame.add(txt);
 
