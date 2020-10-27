@@ -6,6 +6,15 @@
 - [x] Text entry and label
 - [x] Text entry, Button and label
 - [x] Text Password Field
+- [ ] Alerts
+- [ ] Radio button
+- [ ] Checkbox
+- [ ] Comboxbox
+- [ ] List
+- [ ] Slider
+- [ ] Progress bar
+- [ ] Menu
+- [ ] Popup Menu
 
 
 ## References
