@@ -7,7 +7,7 @@
 - [x] Text entry, Button and label
 - [x] Text Password Field
 - [x] Alerts
-- [ ] Radio button
+- [x] Radio button
 - [ ] Checkbox
 - [ ] Comboxbox
 - [ ] List
