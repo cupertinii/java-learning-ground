@@ -25,6 +25,27 @@ public class GUIApp {
     option_4 = new JRadioButton("West");
     option_4.setBounds(100, 140, 200, 30);
 
+    // Event handlers
+    option_1.addActionListener(new ActionListener() {
+      public void actionPerformed(ActionEvent e) {
+        label_2.setText("North selected");
+      }
+    });
+    option_2.addActionListener(new ActionListener() {
+      public void actionPerformed(ActionEvent e) {
+        label_2.setText("South selected");
+      }
+    });
+    option_3.addActionListener(new ActionListener() {
+      public void actionPerformed(ActionEvent e) {
+        label_2.setText("East selected");
+      }
+    });
+    option_4.addActionListener(new ActionListener() {
+      public void actionPerformed(ActionEvent e) {
+        label_2.setText("West selected");
+      }
+    });
 
     // Now create Button Group and add all these options to it
     ButtonGroup option_group = new ButtonGroup();
