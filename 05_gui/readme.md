@@ -8,7 +8,7 @@
 - [x] Text Password Field
 - [x] Alerts
 - [x] Radio button
-- [ ] Checkbox
+- [x] Checkbox
 - [ ] Comboxbox
 - [ ] List
 - [ ] Slider
